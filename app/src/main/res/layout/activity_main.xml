@@ -67,7 +67,7 @@
     </LinearLayout>
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/button"
+        android:id="@+id/button_reload"
         android:background="@color/black"
         android:text="Reload"
         android:textColor="@color/white"
